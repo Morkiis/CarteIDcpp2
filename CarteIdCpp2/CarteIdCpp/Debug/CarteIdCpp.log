@@ -1,0 +1,39 @@
+﻿  main.cpp
+c:\users\briot\desktop\git\carteidcpp\carteidcpp\carteidcpp\main.cpp(110): error C2678: '!=' binaire : aucun opérateur trouvé qui accepte un opérande de partie gauche de type 'std::string' (ou il n'existe pas de conversion acceptable)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(394): note: est peut-être 'bool std::operator !=(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(389): note: ou       'bool std::operator !=(const std::error_condition &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(384): note: ou       'bool std::operator !=(const std::error_code &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(379): note: ou       'bool std::operator !=(const std::error_code &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(357): note: ou       'bool std::operator !=(const std::exception_ptr &,std::nullptr_t) throw()'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(352): note: ou       'bool std::operator !=(std::nullptr_t,const std::exception_ptr &) throw()'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(347): note: ou       'bool std::operator !=(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\briot\desktop\git\carteidcpp\carteidcpp\carteidcpp\main.cpp(110): note: lors de la tentative de mise en correspondance de la liste des arguments '(std::string, int)'
+c:\users\briot\desktop\git\carteidcpp\carteidcpp\carteidcpp\main.cpp(127): error C2678: '==' binaire : aucun opérateur trouvé qui accepte un opérande de partie gauche de type 'std::string' (ou il n'existe pas de conversion acceptable)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(372): note: est peut-être 'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(366): note: ou       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(360): note: ou       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(354): note: ou       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(342): note: ou       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(337): note: ou       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(332): note: ou       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\briot\desktop\git\carteidcpp\carteidcpp\carteidcpp\main.cpp(127): note: lors de la tentative de mise en correspondance de la liste des arguments '(std::string, int)'
+c:\users\briot\desktop\git\carteidcpp\carteidcpp\carteidcpp\main.cpp(154): error C2678: '==' binaire : aucun opérateur trouvé qui accepte un opérande de partie gauche de type 'std::string' (ou il n'existe pas de conversion acceptable)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(372): note: est peut-être 'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(366): note: ou       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(360): note: ou       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(354): note: ou       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(342): note: ou       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(337): note: ou       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(332): note: ou       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\briot\desktop\git\carteidcpp\carteidcpp\carteidcpp\main.cpp(154): note: lors de la tentative de mise en correspondance de la liste des arguments '(std::string, int)'
+c:\users\briot\desktop\git\carteidcpp\carteidcpp\carteidcpp\main.cpp(206): error C2678: '==' binaire : aucun opérateur trouvé qui accepte un opérande de partie gauche de type 'std::string' (ou il n'existe pas de conversion acceptable)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(372): note: est peut-être 'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(366): note: ou       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(360): note: ou       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\system_error(354): note: ou       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(342): note: ou       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) throw()'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(337): note: ou       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) throw()'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\exception(332): note: ou       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) throw()'
+  c:\users\briot\desktop\git\carteidcpp\carteidcpp\carteidcpp\main.cpp(206): note: lors de la tentative de mise en correspondance de la liste des arguments '(std::string, int)'
+  CarteID.cpp
+  Génération de code en cours...
